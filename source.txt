@@ -1,0 +1,6 @@
+{
+    "user": ["login", "edit", "check", "exit"],
+    "class": ["add", "edit" , "share", "delete", "getClassList"],
+    "courseware": ["add", "delete", "getList", "getInfo"],
+    "sys": ["state"]
+}
